@@ -9,6 +9,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
+  overflow: hidden;
 }
 
 
@@ -128,4 +129,10 @@
 .particle3 {
   width: 2.5px;
   height: 2.5px;
+}
+
+@media (max-width:768px) {
+  .particle {
+    display: none;
+  }
 }
