@@ -1,5 +1,5 @@
 .reload_button {
-  position: absolute;
+  position: relative;
   display: none;
   font-size: 25px;
   background-color: transparent;
