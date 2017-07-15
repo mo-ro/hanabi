@@ -24,8 +24,6 @@
 .light {
   background-color: #F7C0B4;
   position: absolute;
-  /*left: -125px;
-  top: -125px;*/
   width: 1px;
   height: 1px;
   transition: 1.5s;

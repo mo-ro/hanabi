@@ -15,6 +15,7 @@
   z-index: 1;
   overflow: hidden;
   font-family: 'Muli', sans-serif;
+  letter-spacing: 1px;
 }
 
 .reload_button::after {
@@ -42,25 +43,3 @@
 .display {
   display: block;
 }
-
-/*.reload_button {
-  position: relative;
-  z-index: 2;
-  background-color: #fff;
-  border: 2px solid #333;
-  color: #333;
-  line-height: 50px;
-  overflow: hidden;
-}
-.reload_button:hover {
-  color: #fff;
-}
-.reload_button::after {
-  top: -100%;
-  width: 100%;
-  height: 100%;
-}
-.reload_button:hover::after {
-  top: 0;
-  background-color: #333;
-}*/
